@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=haroonalnhdi.haroonalnhdi" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HaroonAlnhdi.HaroonAlnhdi" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
@@ -57,10 +57,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 <img src="https://streak-stats.demolab.com?user=haroonalnhdi&theme=dark" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-haroonalnhdi.vercel.app/api?username=haroonalnhdi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 <img src="https://streak-stats.demolab.com?user=HaroonAlnhdi&theme=dark" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-HaroonAlnhdi.vercel.app/api?username=HaroonAlnhdi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-haroonalnhdi.vercel.app/api/top-langs/?username=haroonalnhdi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-HaroonAlnhdi.vercel.app/api/top-langs/?username=HaroonAlnhdi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
