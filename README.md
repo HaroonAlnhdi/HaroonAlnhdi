@@ -56,11 +56,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 <img src="https://streak-stats.demolab.com?user=HaroonAlnhdi&theme=dark" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-HaroonAlnhdi.vercel.app/api?username=HaroonAlnhdi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align="center">
+  <img width="390" src="https://streak-stats.demolab.com?user=HaroonAlnhdi&theme=dark" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=HaroonAlnhdi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaroonAlnhdi)](https://github.com/anuraghazra/github-readme-stats)" alt="top langs" />
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroonAlnhdi&layout=compact&theme=react" alt="top langs" />
 </div>
 
 <br/><br/>
